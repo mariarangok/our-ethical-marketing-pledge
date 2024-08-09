@@ -22,7 +22,9 @@ To add a language, create a file of the form `languageCode.md` (for a general tr
 
 Please make sure to edit this `LANGUAGES.md` file to add a link to your translation.
 
-#Translations
+---
+
+# Translations
 
 - [es_CO](https://github.com/the-ethical-move/our-ethical-marketing-pledge/blob/main/Translations/es_CO)
 
